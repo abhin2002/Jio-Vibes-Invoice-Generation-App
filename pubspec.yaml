@@ -14,7 +14,9 @@ dependencies:
   flutter:
     sdk: flutter
 
+  image: ^3.0.1
 
+  gsheets : ^0.5.0
   
   cupertino_icons: ^1.0.2
 
@@ -35,6 +37,9 @@ dev_dependencies:
 
 
 flutter:
+
+  assets:
+    - assets/image/Vibes_logo.png
 
 
   uses-material-design: true
